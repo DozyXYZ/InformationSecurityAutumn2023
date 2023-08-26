@@ -1,6 +1,12 @@
 # Task x
-# Summarize Darknet Diaries Ep 124: Synthetic Remmittance
+## Summarize Darknet Diaries Ep 124: Synthetic Remmittance
 The story is about how the 43 years old Evaldas Rimasaukas from Lithuania uses a scam named BEC – Business E-mail Compromise to phish more than $100 million from Facebook and Google.</br>
+
 Evaldas and co. researched and gathered information about the targets: Facebook, Google and other multinational companies in key personnel (who wrote the check to pay the invoices), financial processes (accounting and financial department) and communication channels. The attacker’s team looked for phone numbers in Facebook and Google employees’ email then called them to gather more information of the key people, the process, the companies’ partners. They found Quanta Computer and repeated the process to research Quanta Computer.</br>
+
 The scammers crafted a sophisticated BEC scam, creating legitimate appeared Quanta Computer employees’ email address, Quanta Computer’s invoices and contracts. Then he sent those emails with invoices to Facebook and Google to trick the companies send the money to his bank account rather than Quanta Computer bank account. AND THEY DID! Over the course of 2 years, the scammers successfully scammed and laundered $23 millions from Google and $98 million from Facebook.</br>
+
 The scam was busted when the companies figured out the discrepancies in payments. The FBI was contacted. After tracing the paper trail, they discovered the domain of to make the fake Quanta email look legitimate was registered by Evaldas using ... his personal email. He was arrested by the Lithuanian government and extradited to the U.S.A. He was sentenced to 5 years in prison and fined $26 millions. Google and Facebook managed to recovered most of the money and a valuable lessons that security is everyone’s responsibility.
+
+## Summarize Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains (Hutchins E., Cloppert M. & Amin R.)
+
