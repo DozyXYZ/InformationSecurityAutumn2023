@@ -8,5 +8,8 @@ The scammers crafted a sophisticated BEC scam, creating legitimate appeared Quan
 
 The scam was busted when the companies figured out the discrepancies in payments. The FBI was contacted. After tracing the paper trail, they discovered the domain of to make the fake Quanta email look legitimate was registered by Evaldas using ... his personal email. He was arrested by the Lithuanian government and extradited to the U.S.A. He was sentenced to 5 years in prison and fined $26 millions. Google and Facebook managed to recovered most of the money and a valuable lessons that security is everyone’s responsibility.
 
+<img src="https://g4.dcdn.lt/images/pix/evaldas-rimasauskas-75428475.jpg" alt="Evaldas Rimasaukas">
+
+
 ## Summarize Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains (Hutchins E., Cloppert M. & Amin R.)
 
