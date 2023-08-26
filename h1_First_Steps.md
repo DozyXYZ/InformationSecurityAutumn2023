@@ -34,3 +34,11 @@ New kill chain for intrusions: reconnaissance, weaponization, delivery, exploita
 5.	Installation of trojan/backdoor enables persistent access for adversaries.
 6.	Command and Control (C2): compromised hosts connect to internet server for manual control.
 7.	Actions on Objectives: intruders pursue goals like data exfiltration, integrity breaches, or lateral movement.
+
+### Courses of Action
+
+The defenders align their defensive system accordingly to the intrusion kill chain’s specific processes. Defenders measure effectiveness, plan roadmaps to bridge the gap between them and the intrusion. The approach is the essence of intelligent-driven Computer Network Defense: make decisions and measurements based on a deep understanding of the adversary.
+
+The course of actions can be described in a 7x6 matrix with the 7 phases of intrusion kill chains and 6 phases of actions: detect, deny, disrupt, degrade, deceive, and destroy. Various defense techniques are being deployed in each course of actions to counter the intrusion kill chain. The counterattack can be sophisticated or sometimes it just requires the users to be cautious, for example, not click or download files on fishy emails.
+
+Resiliency is the defender’s top priority when faced with evolving adversaries. The most notable adaptations are in the exploits phase. When the adversaries deploy an exploit but reuse observable tools or infrastructure in other phases and the defenders have mitigations for those, the defenders will force the adversaries to improve their attack and thereby increases the adversaries’ cost to attack the defenders. The defenders can measure the performance and effectiveness of defensive actions to generate the metric for resiliency. Using the kill chain to frame the metrics, the defenders can achieve the upper hand and identify priorities to mitigate the intrusions. 
