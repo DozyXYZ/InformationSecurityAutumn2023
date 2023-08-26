@@ -13,3 +13,10 @@ The scam was busted when the companies figured out the discrepancies in payments
 
 ## Summarize Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains (Hutchins E., Cloppert M. & Amin R.)
 
+Traditional defense tools (like intrusion detection and anti-virus) focus on vulnerability risk. Conventional incident response assumes a successful intrusion. Evolving goals and sophistication of cyber intrusions have made these methods inadequate for specific actors.
+
+A new threat class, known as "Advanced Persistent Threat" (APT), involves skilled adversaries conducting long-term intrusions for sensitive information. APTs use advanced tools to bypass traditional network defenses.
+
+Knowledge about these threats enables an intelligence feedback loop, helping defenders gain an information advantage and reducing adversary success chances over time. An intrusion "kill chain" model outlines intrusion phases, mapping adversary indicators to defender actions. Recognizing patterns linking intrusions forms the basis of intelligence-driven computer network defense (CND). This approach reduces the likelihood of adversary success, guides defense investments, and provides performance metrics.
+
+An intelligence-based model is crucial due to the evolving nature of advanced persistent threats, addressing both vulnerability and threat components of risk.
