@@ -10,6 +10,7 @@ The scam was busted when the companies figured out the discrepancies in payments
 
 <img src="https://g4.dcdn.lt/images/pix/evaldas-rimasauskas-75428475.jpg" alt="Evaldas Rimasaukas">
 
+TRANSCRIPT: https://darknetdiaries.com/transcript/124/
 
 ## Summarize Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains (Hutchins E., Cloppert M. & Amin R.)
 
