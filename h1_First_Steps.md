@@ -45,4 +45,6 @@ The course of actions can be described in a 7x6 matrix with the 7 phases of intr
 Resiliency is the defender’s top priority when faced with evolving adversaries. The most notable adaptations are in the exploits phase. When the adversaries deploy an exploit but reuse observable tools or infrastructure in other phases and the defenders have mitigations for those, the defenders will force the adversaries to improve their attack and thereby increases the adversaries’ cost to attack the defenders. The defenders can measure the performance and effectiveness of defensive actions to generate the metric for resiliency. Using the kill chain to frame the metrics, the defenders can achieve the upper hand and identify priorities to mitigate the intrusions. 
 
 # Task b
+
+I successfully got debian on Oracle running on Monday 21/08 while still in class, but I forgot to take the screenshots so the report is written with my memory.
 ![debian on Oracle](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/2b27d854-fe67-449f-ae1b-f89edff7c2cf)
