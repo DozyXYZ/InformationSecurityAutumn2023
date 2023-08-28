@@ -48,6 +48,18 @@ Resiliency is the defender’s top priority when faced with evolving adversaries
 
 I successfully got debian on Oracle running on Monday 21/08 while still in class, but I forgot to take the screenshots so the report is written with my memory.
 
+## Download debian 12 and Oracle VM Virtual Box
 Debian 12: debian-live-12.1.0-amd64-xfce.iso (Download Link: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/) </br>
 Oracle VM Virtual Box 7.0.10 Window hosts (Download Link: https://www.virtualbox.org/wiki/Downloads)
+
+## Intall Oracle VM
+Start Installer > Select Expert Install > Fill in Name, Type (Linux), Version, Memory size (depending on your machine), Hard Disk Created: Yes > Click "Create" (Hard Disk 60GB if possible)
+
+## Install Debian 12 Live
+Load the Debian installer to a Virtual CDROM </br>
+Boot Debian Linux on Oracle VM Virtual Box > Select Install Debian on the Virtual Box working environment screen > Choose Language, Location, Keyboard, Users, Strong Password > Click Install (need to zoom the installer Window as this install button is hidden somehow) </br>
+After some minutes (depends on your machine), Debian is installed and you can login using your registered name and password)
+
+After login, you can have the working environment that look like the following picture:
+
 ![debian on Oracle](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/2b27d854-fe67-449f-ae1b-f89edff7c2cf)
