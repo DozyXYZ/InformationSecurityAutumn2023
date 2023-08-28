@@ -47,4 +47,7 @@ Resiliency is the defender’s top priority when faced with evolving adversaries
 # Task b
 
 I successfully got debian on Oracle running on Monday 21/08 while still in class, but I forgot to take the screenshots so the report is written with my memory.
+
+Debian 12: debian-live-12.1.0-amd64-xfce.iso (Download Link: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)
+Oracle VM Virtual Box 7.0.10 Window hosts (Download Link: https://www.virtualbox.org/wiki/Downloads)
 ![debian on Oracle](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/2b27d854-fe67-449f-ae1b-f89edff7c2cf)
