@@ -65,3 +65,14 @@ Fig a4: Register a new Webgoat account on Firefox browser </br>
 ![4 webgoat register](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/ad444573-d901-44a2-9d4e-0b29d38f3c10)
 
 # Task b) Webgoat 8: General Developer Tools
+
+> Login Webgoat account </br>
+> Choose "General Tab" </br>
+
+Fig b1: Webgoat UI </br>
+![b0](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/0bd1ab81-9752-4a78-b26b-591b421fa2e2)
+
+> Follow the instruction on Step 1, 2, 3 to Inspect and view the elements and styles of Firefox Browser </br>
+
+Fig b2: Firefox Dev Tools </br>
+![b1 firefox, elements, styles](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/08760bcd-e2af-40bc-b012-47333e3b95b6)
