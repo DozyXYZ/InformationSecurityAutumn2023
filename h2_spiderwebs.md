@@ -1,0 +1,7 @@
+# Task x
+
+## A03: Injection
+The overview presents statistics related to injection vulnerabilities in applications, where injection is a major security concern. Notably, 94% of tested applications exhibited some form of injection vulnerability, with a maximum incidence rate of 19%, an average incidence rate of 3%, and 274,000 occurrences. Common Weakness Enumerations (CWEs) associated with these vulnerabilities include CWE-79 (Cross-site Scripting), CWE-89 (SQL Injection), and CWE-73 (External Control of File Name or Path).
+The description highlights conditions under which applications become vulnerable to injection attacks, such as insufficient data validation, unfiltered user input, and the use of dynamic queries without proper escaping. Various types of injections, including SQL, NoSQL, and Object-Relational Mapping (ORM) injections, are mentioned. It emphasizes the importance of source code review and automated testing as methods to identify and mitigate injection vulnerabilities. Incorporating security testing tools into the CI/CD pipeline is recommended.
+Prevention strategies are outlined, emphasizing the separation of data from commands and queries. This can be achieved through safe APIs, parameterized interfaces, or the use of Object Relational Mapping Tools (ORMs). Server-side input validation is also encouraged, along with escaping special characters for dynamic queries. Additionally, limitations and controls within SQL queries are suggested to prevent data disclosure in the event of SQL injection.
+
