@@ -40,8 +40,8 @@ Fig a1: Prerequesites Complete! </br>
 ## Install and Run WebGoat
 After enabling your firewall, I used the command recommended to download webgoat but run into some errors. Therefore, I could not download Webgoat
 
-> The certificate of 'terokarvinen.com' is not trusted.
-> The certificate of 'terokarvinen.com' is not yet activated.
+> The certificate of 'terokarvinen.com' is not trusted. </br>
+> The certificate of 'terokarvinen.com' is not yet activated. </br>
 
 I found a work around, however it is not recommended by the replier. (https://unix.stackexchange.com/questions/334905/how-do-i-fix-wget-on-an-http-url-not-trusted-errors-in-kali)
 
@@ -55,4 +55,11 @@ Fig a3: Use Java to run Webgoat </br>
 ![a4](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/fbeb6dba-42a5-457e-b572-780b2e50cf97)
 
 ## Register
-After
+After successfully running Webgoat
+
+> Open your browser and use the this link to access Webgoat: http://localhost:8080/WebGoat/ </br>
+> If you get everything correctly, you will see a UI like Fig a4 </br>
+> Register a new account! </br>
+
+Fig a4: Register a new Webgoat account on Firefox browser </br>
+![a4](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/3c7ebb6f-2846-459a-8e7d-48d612abd3a9)
