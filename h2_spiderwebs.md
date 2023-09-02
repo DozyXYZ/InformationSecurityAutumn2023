@@ -131,10 +131,18 @@ Fig d4: Question 2 </br>
 > Access the lab with this link: https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data </br>
 
 > The lab environment is a website of an online store, choose Gifts </br>
-  > the URL https://0a7a00190448ae9a80126215009000f9.web-security-academy.net/filter?category=Gifts will trigger an SQL to retrieve the data accordingly (Fig e1) </br>
-  > SQL: SELECT * FROM products WHERE category = 'Gifts' AND released = 1 , this show RELEASED Gifts products only </br>
+  > Activate the URL https://0a7a00190448ae9a80126215009000f9.web-security-academy.net/filter?category=Gifts will trigger an SQL to retrieve the data accordingly (Fig e1) </br>
+  > Original SQL: SELECT * FROM products WHERE category = 'Gifts' AND released = 1 , this show RELEASED Gifts products only </br>
 
 > Insert this '+OR+1=1-- injection behind the URL https://0a7a00190448ae9a80126215009000f9.web-security-academy.net/filter?category=Gifts'+OR+1=1-- , to change the SQL </br>
-  > SQL: SELECT * FROM products WHERE category = 'Gifts' OR 1=1 , the injection will remove the "released = 1" from the original SQL and run the part "OR 1=1" instead </br>
+  > Injected SQL: SELECT * FROM products WHERE category = 'Gifts' OR 1=1 , the injection will remove the "released = 1" from the original SQL and run the part "OR 1=1" instead </br>
   > the "OR 1=1" wil return value TRUE so it will retrieve all data (Fig e2) </br>
+
+Fig e1: Normal Webpage </br>
+![e1 normal](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/06ea5d34-0f95-4c36-a4e0-bb810c2a5d64)
+
+Fig e2: Injected Webpage </br>
+![e2 injection](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/f3d87909-c5ba-4c3b-b8d7-511f561651cf)
+
+
   
