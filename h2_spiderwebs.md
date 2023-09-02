@@ -120,5 +120,10 @@ Fig d3: Question 3 </br>
 
 ## 2 SELECT from WORLD
 
+Question 1: The results are truncated. Only the first 50 rows have been shown. It showed Aghanistan till Egypt.
 
+Fig d4: Question 2 </br>
+![d4](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/ac44d573-4fa5-4ec6-89e8-e332088f3d89)
+
+# Task e) Johnny tables
 
