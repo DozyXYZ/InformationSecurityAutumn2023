@@ -67,15 +67,17 @@ Fig a4: Register a new Webgoat account on Firefox browser </br>
 # Task b) Webgoat 8: General Developer Tools
 
 > Login Webgoat account </br>
-> Choose "General Tab" </br>
+> Choose "General" tab </br>
 
 Fig b1: Webgoat UI </br>
 ![b0](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/0bd1ab81-9752-4a78-b26b-591b421fa2e2)
+
 
 > Follow the instruction on Step 1, 2, 3 to Inspect and view the elements and styles of Firefox Browser </br>
 
 Fig b2: Firefox Dev Tools </br>
 ![b1 firefox, elements, styles](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/08760bcd-e2af-40bc-b012-47333e3b95b6)
+
 
 > Go to Console tab, use command webgoat.customjs.phoneHome() to generate a phone number </br>
 > Copy the number behind after "phoneHome Response is ..." and paste it in the box to check if it is a correct number </br>
@@ -83,3 +85,16 @@ Fig b2: Firefox Dev Tools </br>
 Fig b3: Generate and check phoneHome
 ![b3 generate phoneHome on Webgoat tab](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/217ce664-802b-4a1b-8c9e-a44bdbcde9a5)
 ![b3 generate phoneHome correct](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/32c0bf45-ae30-4a4f-87c9-5d8bc89e94e3)
+
+
+> Go to step 6 on Webgoat lesson </br>
+> Go to Network tab on developer tools </br>
+> Wait for it to generate all the requests </br>
+> Do not close the developer tools, go to webgoat UI, click Go! button, you will see a new request appear on Network tab </br>
+> Click on the request, you will see a number </br>
+
+Fig b4: Generate and check a request  </br>
+![b4 Found it](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/a0282112-bf70-4df9-b541-0eaff5b10d75)
+![ba all done](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/de6cbda7-071d-4dc2-bcfc-92eb26d1e59e)
+
+
