@@ -98,5 +98,11 @@ Fig b4: Generate and check a request  </br>
 ![ba all done](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/de6cbda7-071d-4dc2-bcfc-92eb26d1e59e)
 
 # Task c) Update OS and all applications
+> Open Terminal </br>
+> Use command $ sudo apt-get update (I have some errors, I will update when I figure them out - if you know reasons, please type in the evaluation. Thank you!) </br>
+> Use command $ sudo apt-get dist-upgrade </br>
+
+Fig c1: Update OS and applications </br>
+![C1](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/85e6efb1-98f8-486a-af7e-2fffe78dd011)
 
 
