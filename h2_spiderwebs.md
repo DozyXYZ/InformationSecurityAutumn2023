@@ -37,7 +37,7 @@ Follow the instruction on https://terokarvinen.com/2020/install-webgoat-web-pent
 Fig a1: Prerequesites Complete! </br>
 ![1 java firewall](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/20f713bc-d394-46a4-b182-13f502075545)
 
-## Install and Run WebGoat
+## Install and Run Webgoat
 After enabling your firewall, I used the command recommended to download webgoat but run into some errors. Therefore, I could not download Webgoat
 
 > The certificate of 'terokarvinen.com' is not trusted. </br>
