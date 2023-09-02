@@ -144,5 +144,4 @@ Fig e1: Normal Webpage </br>
 Fig e2: Injected Webpage </br>
 ![e2 injection](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/f3d87909-c5ba-4c3b-b8d7-511f561651cf)
 
-
-  
+Reference: https://portswigger.net/web-security/sql-injection#what-is-sql-injection-sqli
