@@ -97,4 +97,6 @@ Fig b4: Generate and check a request  </br>
 ![b4 Found it](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/a0282112-bf70-4df9-b541-0eaff5b10d75)
 ![ba all done](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/de6cbda7-071d-4dc2-bcfc-92eb26d1e59e)
 
+# Task c) Update OS and all applications
+
 
