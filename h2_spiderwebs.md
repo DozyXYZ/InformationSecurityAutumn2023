@@ -105,4 +105,5 @@ Fig b4: Generate and check a request  </br>
 Fig c1: Update OS and applications </br>
 ![C1](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/85e6efb1-98f8-486a-af7e-2fffe78dd011)
 
+# Task d) Sequel SQLZoo
 
