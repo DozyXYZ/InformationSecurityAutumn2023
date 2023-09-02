@@ -23,8 +23,9 @@ Preventive measures emphasized the importance of a structured patch management p
 
 # Task a) Goat
 
-## Prequesite
+## Prerequesites
 Follow the instruction on https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/ 
+
 > make sure you are connected to the Internet </br>
 > open Terminal on Linux </br>
 > use command $ sudo apt-get update </br>
@@ -33,5 +34,25 @@ Follow the instruction on https://terokarvinen.com/2020/install-webgoat-web-pent
 > install java using command $ sudo apt-get -y install openjdk-17-jre ufw wget bash-completion </br>
 > enable firewall using command $ sudo ufw enable , if everything run correctly you should see the following pic on your screen </br>
 
-Fig1: Prequesite Complete! </br>
+Fig a1: Prerequesites Complete! </br>
 ![1 java firewall](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/20f713bc-d394-46a4-b182-13f502075545)
+
+## Install and Run WebGoat
+After enabling your firewall, I used the command recommended to download webgoat but run into some errors. Therefore, I could not download Webgoat
+
+> The certificate of 'terokarvinen.com' is not trusted.
+> The certificate of 'terokarvinen.com' is not yet activated.
+
+I found a work around, however it is not recommended by the replier. (https://unix.stackexchange.com/questions/334905/how-do-i-fix-wget-on-an-http-url-not-trusted-errors-in-kali)
+
+> download Webgoat using command $ wget --no-check-certificate https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
+> use command to run Webgoat on $ java -jar webgoat-server-8.0.0.M26.jar
+
+Fig a2: Workaround download </br>
+![3 workaround and download](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/18066864-d7eb-4587-87c2-cd1669beca66)
+
+Fig a3: Use Java to run Webgoat </br>
+![a4](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/fbeb6dba-42a5-457e-b572-780b2e50cf97)
+
+## Register
+After
