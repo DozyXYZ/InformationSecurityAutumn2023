@@ -21,3 +21,17 @@ There are several conditions that may render an organization vulnerable to such 
 
 Preventive measures emphasized the importance of a structured patch management process. These measures include removing unnecessary components, continuously monitoring and inventorying component versions, and vulnerabilities, obtaining components from official sources via secure links, and addressing issues with unmaintained or unpatched components through virtual patches. Additionally, organizations are encouraged to maintain a long-term plan for monitoring, triaging, and applying updates and configuration changes.
 
+# Task a) Goat
+
+## Prequesite
+Follow the instruction on https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/ 
+> make sure you are connected to the Internet
+> open Terminal on Linux
+> use command $ sudo apt-get update
+> confidently type your password, you will not see it when you type due to security reason
+> after finishing typing, press enter
+> install java using command $ sudo apt-get -y install openjdk-17-jre ufw wget bash-completion
+> enable firewall using command $ sudo ufw enable , if everything run correctly you should see the following pic on your screen
+
+Fig1: Prequesite Complete!
+![1 java firewall](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/20f713bc-d394-46a4-b182-13f502075545)
