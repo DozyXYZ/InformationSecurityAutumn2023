@@ -107,3 +107,18 @@ Fig c1: Update OS and applications </br>
 
 # Task d) Sequel SQLZoo
 
+## 0 SELECT Basic
+
+Fig d1: Question 1 </br>
+![d1](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/b63be0eb-97b2-4764-ae8a-128392f89823)
+
+Fig d2: Question 2 </br>
+![d2](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/e3b7218e-9975-44bb-a9e8-1eb2285c9c10)
+
+Fig d3: Question 3 </br>
+![d3](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/36677acd-d6c8-459d-9439-745831c3beed)
+
+## 2 SELECT from WORLD
+
+
+
