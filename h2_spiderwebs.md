@@ -136,7 +136,7 @@ Fig d4: Question 2 </br>
 
 > Insert this '+OR+1=1-- injection behind the URL https://0a7a00190448ae9a80126215009000f9.web-security-academy.net/filter?category=Gifts'+OR+1=1-- , to change the SQL </br>
   > Injected SQL: SELECT * FROM products WHERE category = 'Gifts' OR 1=1 , the injection will remove the "released = 1" from the original SQL and run the part "OR 1=1" instead </br>
-  > the "OR 1=1" wil return value TRUE so it will retrieve all data (Fig e2) </br>
+  > the "OR 1=1" will return value TRUE so it will retrieve all data (Fig e2) </br>
 
 Fig e1: Normal Webpage </br>
 ![e1 normal](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/06ea5d34-0f95-4c36-a4e0-bb810c2a5d64)
