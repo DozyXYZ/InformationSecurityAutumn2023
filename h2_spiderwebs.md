@@ -45,8 +45,8 @@ After enabling your firewall, I used the command recommended to download webgoat
 
 I found a work around, however it is not recommended by the replier. (https://unix.stackexchange.com/questions/334905/how-do-i-fix-wget-on-an-http-url-not-trusted-errors-in-kali)
 
-> download Webgoat using command $ wget --no-check-certificate https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
-> use command to run Webgoat on $ java -jar webgoat-server-8.0.0.M26.jar
+> download Webgoat using command $ wget --no-check-certificate https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar </br>
+> use command to run Webgoat on $ java -jar webgoat-server-8.0.0.M26.jar </br>
 
 Fig a2: Workaround download </br>
 ![3 workaround and download](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/18066864-d7eb-4587-87c2-cd1669beca66)
@@ -62,4 +62,5 @@ After successfully running Webgoat
 > Register a new account! </br>
 
 Fig a4: Register a new Webgoat account on Firefox browser </br>
-![a4](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/3c7ebb6f-2846-459a-8e7d-48d612abd3a9)
+![4 webgoat register](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/ad444573-d901-44a2-9d4e-0b29d38f3c10)
+
