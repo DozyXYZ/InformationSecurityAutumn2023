@@ -25,13 +25,13 @@ Preventive measures emphasized the importance of a structured patch management p
 
 ## Prequesite
 Follow the instruction on https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/ 
-> make sure you are connected to the Internet
-> open Terminal on Linux
-> use command $ sudo apt-get update
-> confidently type your password, you will not see it when you type due to security reason
-> after finishing typing, press enter
-> install java using command $ sudo apt-get -y install openjdk-17-jre ufw wget bash-completion
-> enable firewall using command $ sudo ufw enable , if everything run correctly you should see the following pic on your screen
+> make sure you are connected to the Internet </br>
+> open Terminal on Linux </br>
+> use command $ sudo apt-get update </br>
+> confidently type your password, you will not see it when you type due to security reason </br>
+> after finishing typing, press enter </br>
+> install java using command $ sudo apt-get -y install openjdk-17-jre ufw wget bash-completion </br>
+> enable firewall using command $ sudo ufw enable , if everything run correctly you should see the following pic on your screen </br>
 
-Fig1: Prequesite Complete!
+Fig1: Prequesite Complete! </br>
 ![1 java firewall](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/20f713bc-d394-46a4-b182-13f502075545)
