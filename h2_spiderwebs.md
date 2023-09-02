@@ -64,3 +64,4 @@ After successfully running Webgoat
 Fig a4: Register a new Webgoat account on Firefox browser </br>
 ![4 webgoat register](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/ad444573-d901-44a2-9d4e-0b29d38f3c10)
 
+# Task b) Webgoat 8: General Developer Tools
