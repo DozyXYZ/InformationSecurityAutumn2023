@@ -76,3 +76,10 @@ Fig b1: Webgoat UI </br>
 
 Fig b2: Firefox Dev Tools </br>
 ![b1 firefox, elements, styles](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/08760bcd-e2af-40bc-b012-47333e3b95b6)
+
+> Go to Console tab, use command webgoat.customjs.phoneHome() to generate a phone number </br>
+> Copy the number behind after "phoneHome Response is ..." and paste it in the box to check if it is a correct number </br>
+
+Fig b3: Generate and check phoneHome
+![b3 generate phoneHome on Webgoat tab](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/217ce664-802b-4a1b-8c9e-a44bdbcde9a5)
+![b3 generate phoneHome correct](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/32c0bf45-ae30-4a4f-87c9-5d8bc89e94e3)
