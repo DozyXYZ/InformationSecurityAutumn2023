@@ -86,17 +86,44 @@ Why threat modeling? </br>
 > Re-define attack vectors </br>
 
 ### Write your Threat traceability matrix
-
-#### DREAD
-
+ 
 > Define the impact and probability for each threat </br>
-> Use DREAD formula: </br>
+
+> Use DREAD to  evaluate each existing vulnerability using a mathematical formula to retrieve the vulnerability’s corresponding risk. </br>
 > </br>
-> Damage - how bad would an attack be?
-> Reproducibility - how easy it is to reproduce the attack?
-> Exploitability - how much work is it to launch the attack?
-> Affected users - how many people will be impacted?
-> Discoverability - how easy it is to discover the threat?
+> Damage - how bad would an attack be? </br>
+> Reproducibility - how easy it is to reproduce the attack? </br>
+> Exploitability - how much work is it to launch the attack? </br>
+> Affected users - how many people will be impacted? </br>
+> Discoverability - how easy it is to discover the threat? </br>
 > </br>
 > Risk Value = (Damage + Affected users) x (Reproducibility + Exploitability + Discoverability) </br>
+
+> Use PASTA to build a complete risk analysis and evaluation procedures that you can follow to evaluate the risk for each of the identified threat.
+
+Fig x1: PASTA </br>
+![Capture](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/94700ffc-8a99-458a-947d-edb58b2c97ad)
+
+Sources: https://owasp.org/www-pdf-archive/AppSecEU2012_PASTA.pdf
+
+> Use Rank Risks to build a risks matrix from most severe to least severe based on Means, Motive, and Opportunity </br>
+
+Fig x2: Rank Risks </br>
+![dbaca7bc05dbf4e08575d6e9cabae596](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/8d758444-418d-4770-8a35-c030f4435599)
+
+Sources: https://i.pinimg.com/originals/db/ac/a7/dbaca7bc05dbf4e08575d6e9cabae596.gif
+
+### Determine countermeasures and mitigation
+
+> Identify risk owners </br>
+> Agree on risk mitigation with risk owners and stakeholders </br>
+> Build your risk treatment strategy </br>
+> - Reduce: code upgrades, specific design choices, or configuration adjustments during deployment </br>
+> - Transfer: outsource development or deployment to 3rd parties who assume responsibility, and perform appropriate testing </br>
+> - Avoid: disable specific functions or features in the application </br>
+> - Accept: when threats fall within predefined acceptable criteria set by the risk owner </br>
+> Select appropriate controls to mitigate risks </br>
+> Test risk treatment to verify remediation </br>
+> Reduce risk in risk log for verified treat risk </br>
+> Periodically retest risk </br>
 
