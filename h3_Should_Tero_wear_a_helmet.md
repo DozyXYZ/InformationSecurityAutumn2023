@@ -2,21 +2,19 @@
 
 ## Braiterman et al 2020: Threat modeling manifesto
 
-Threat Modeling Manifesto is a guide to develop or refine methodologies. It emphasizes VALUES and PRINCIPLES like Agile Manifesto </br>
-These values and principles aid in effective threat modeling and secure system development. </br>
+- Threat Modeling Manifesto is a guide to develop or refine methodologies. It emphasizes VALUES and PRINCIPLES like Agile Manifesto. </br>
+- These values and principles aid in effective threat modeling and secure system development. </br>
 
-Threat modeling is about analyzing system representations to identify security and privacy concerns. </br>
-Threat modeling helps recognize system systems vulnerabilities and design flaws for early or ongoing mitigation. </br>
-Its output - threats - informs decisions during design, development, testing, and post-deployment phases. </br>
-Anyone concerned about system privacy and security should use threat modeling. </br>
+- Threat modeling is about analyzing system representations to identify security and privacy concerns. </br>
+- Threat modeling helps recognize system systems vulnerabilities and design flaws for early or ongoing mitigation. </br>
+- Its output - threats - informs decisions during design, development, testing, and post-deployment phases. </br>
+- Anyone concerned about system privacy and security should use threat modeling. </br>
 
 4 Questions Framwork guide threat modeling: </br>
 > What are we working on? </br>
 > What can go wrong? </br>
 > What are we going to do about it? </br>
 > Did we do a good job? </br>
-
-
 
 ## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
 
@@ -50,3 +48,9 @@ Why threat modeling? </br>
 > - Yes -> you did a good one </br>
 > - No -> you have not done a good job yet. Try again :D </br>
 
+## Shostack 2014: Chapter 1 - Dive In and Threat Model!
+
+- Threat modeling is a skill that anyone can learn and is essential for security. </br>
+- Threat modeling involves abstracting details to see the bigger security picture rather than focusing on code. </br>
+- Threat modeling helps identify security issues in thing not yet built and prevents problems from occuring </br>
+- Threat modeling is a practical discipline best learned through experience, similar to playing a musical instrument. </br>
