@@ -161,3 +161,34 @@ Regular Backups </br>
 
 # Task b) Make-belief boogie-man - a threat model for imaginary company
 
+## Introduction
+
+We are the TRUST ME BRO Capital Management - a hedge fund with €10 billions in assets under management (AUM), our business is committed to delivering exceptional returns and risk management strategies to our investors. We pride ourselves on our secret research, special oloy investment approach, and cutting-edge technology that enables us to stay ahead in today's complex financial markets. Our mission is to generate consistent, sustainable alpha for our clients while prioritizing risk mitigation and compliance.
+
+[Descriptions about something else]
+
+Trading System Specialists focus on optimizing the fund's trading systems for speed and efficiency. They work on high-frequency trading platforms, order execution algorithms, and connectivity to exchanges and liquidity providers.
+
+## What are we working on?
+
+We are working on a sentiment adaptive trading algorithm. It converts the live volume trading of an underlying asset to sentiment then decide and execute a trade. 
+
+Our key assets for this project: </br>
+*	Live Data Feed </br>
+*	Historical Data </br>
+* Algorithm and its white paper </br>
+* Trading infrastructure: Internet Connection and Hardware </br>
+
+Due to the nature of volume and ultra high frequency trading, 1 second = million euro. The Trading System Specialists must: </br>
+* Protect and maintain the connection between us and the trading platform when we go LIVE! Keep the data flow! </br>
+* Protect the algorithm as it pays our bills and your private yacht or jet. </br>
+
+## What can go wrong?
+
+Using STRIDE we can identify these threats: </br>
+* Spoofing Identity: Attackers might attempt to impersonate a legitimate hedge fund or broker to gain unauthorized access or deceive the other party. </br>
+* Tampering with Data: This involves unauthorized modification of data, which could be historical data or live data exchanged between the hedge fund and brokers. </br>
+* Information Disclosure: The unauthorized exposure of sensitive information, like confidential trading strategies or financial data can harm both the hedge fund and the brokers. </br>
+* Denial of Service: Attackers could disrupt the services or systems used by the hedge fund or brokers, making them unavailable or unreliable. </br>
+* Elevation of Privilege: This threat involves attackers gaining unauthorized access to privileged accounts or systems, potentially leading to unauthorized control or manipulation. </br>
+
