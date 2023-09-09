@@ -50,15 +50,6 @@ Why threat modeling? </br>
 
 Source: https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
 
-## Shostack 2014: Chapter 1 - Dive In and Threat Model!
-
-- Threat modeling is a skill that anyone can learn and is essential for security. </br>
-- Threat modeling involves abstracting details to see the bigger security picture rather than focusing on code. </br>
-- Threat modeling helps identify security issues in thing not yet built and prevents problems from occuring </br>
-- Threat modeling is a practical discipline best learned through experience, similar to playing a musical instrument. </br>
-
-Source: https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1
-
 ## OWASP CheatSheets Series Team 2021
 
 - Threat modeling is a structured approach for identifying and prioritizing potential threats to a system and assessing the effectiveness of mitigations. </br>
@@ -136,6 +127,16 @@ Sources: https://i.pinimg.com/originals/db/ac/a7/dbaca7bc05dbf4e08575d6e9cabae59
 > Periodically retest risk </br>
 
 Source: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
+
+## Shostack 2014: Chapter 1 - Dive In and Threat Model!
+
+Tips for Identifying Threats </br>
+* Start with external entities: go in STRIDE order, look for spoofing then tampering on web browser. You can also start with business logic if you know the component of the process </br>
+* Never ignore a threat because it's not what you're looking right now: When you come up with some threats, write them down and come back to them </br>
+* Focus on feasible threats: there are real possibilities but the likelihood that these threats occur is very low </br>
+
+Source 1: https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1
+Source 2: https://libguides.haaga-helia.fi/az.php (Find Ebook Central - Require Haaga Helia Library Access)
 
 # Task a) Security Hygiene
 
