@@ -14,12 +14,6 @@
 - Its output - threats - informs decisions during design, development, testing, and post-deployment phases. </br>
 - Anyone concerned about system privacy and security should use threat modeling. </br>
 
-4 Questions Framwork guide threat modeling: </br>
-> What are we working on? </br>
-> What can go wrong? </br>
-> What are we going to do about it? </br>
-> Did we do a good job? </br>
-
 ## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
 
 The author discussed why we do threat modeling and the 4 Questions Framework
