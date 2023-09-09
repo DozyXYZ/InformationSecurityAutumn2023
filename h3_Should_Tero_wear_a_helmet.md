@@ -141,7 +141,7 @@ Keep Software and Application Updated </br>
 Regular Backups </br>
 > Back up important data regularly to an external hard drive or cloud storage. This can help recover your data in case of ransomware or hardware failure </br>
 
-* Keep sensitive and private information out of your social media </br>
+** Keep sensitive and private information out of your social media </br>
 > The adversaries can use those to phish your networks </br> 
 
 ** Beware of the Peripherals you connect to your personal / work devices </br>
