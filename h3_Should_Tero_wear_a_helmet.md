@@ -1,14 +1,32 @@
 # Task x) 
 
+## Braiterman et al 2020: Threat modeling manifesto
+
+Threat Modeling Manifesto is a guide to develop or refine methodologies. It emphasizes VALUES and PRINCIPLES like Agile Manifesto </br>
+These values and principles aid in effective threat modeling and secure system development. </br>
+
+Threat modeling is about analyzing system representations to identify security and privacy concerns. </br>
+Threat modeling helps recognize system systems vulnerabilities and design flaws for early or ongoing mitigation. </br>
+Its output - threats - informs decisions during design, development, testing, and post-deployment phases. </br>
+Anyone concerned about system privacy and security should use threat modeling. </br>
+
+4 Questions Framwork guide threat modeling: </br>
+> What are we working on? </br>
+> What can go wrong? </br>
+> What are we going to do about it? </br>
+> Did we do a good job? </br>
+
+
+
 ## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
 
-The author discussed why we do threat modelling and the 4 Questions Framework
+The author discussed why we do threat modeling and the 4 Questions Framework
 
-Why threat modelling? </br>
+Why threat modeling? </br>
 > We anticipate the problem when they're inexpensive to deal with them. </br>
 > Think about threats before building anything so we have more approaches to handle. </br>
 
-4 Questions Framework: Answer these questions to have a struture and add more details with consistency and precise.
+4 Questions Framework: Answer these questions to have a structure and add more details with consistency and precise.
 
 1) What are we working on? </br>
 > Collaborate to get everyone on the same table and add their ideas. </br>
@@ -25,9 +43,10 @@ Why threat modelling? </br>
 3) What are we going to do? </br>
 > Track and treat the problems as development items in the backlog in the design process. </br>
 > Make sure you do something about it. </br>
-> Threat modelling informs risk management to quantify the probability or the impact to make the right decisions. </br>
+> Threat modeling informs risk management to quantify the probability or the impact to make the right decisions. </br>
 
 4) Did we do a good job? </br>
 > Would you recommend the solution to your colleague? </br>
 > - Yes -> you did a good one </br>
 > - No -> you have not done a good job yet. Try again :D </br>
+
