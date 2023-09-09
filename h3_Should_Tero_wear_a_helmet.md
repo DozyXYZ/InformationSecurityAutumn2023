@@ -133,7 +133,7 @@ Source: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_She
 Tips for Identifying Threats </br>
 * Start with external entities: go in STRIDE order, look for spoofing then tampering on web browser. You can also start with business logic if you know the component of the process </br>
 * Never ignore a threat because it's not what you're looking right now: When you come up with some threats, write them down and come back to them </br>
-* Focus on feasible threats: there are real possibilities but the likelihood that these threats occur is very low </br>
+* Focus on feasible threats: there exists real possibilities but the likelihood that these threats occur is very low. Spend your resources to patch exploits that are common and have relatively high impact </br>
 
 Source 1: https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1
 Source 2: https://libguides.haaga-helia.fi/az.php (Find Ebook Central - Require Haaga Helia Library Access)
