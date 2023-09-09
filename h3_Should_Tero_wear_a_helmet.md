@@ -118,10 +118,12 @@ Sources: https://i.pinimg.com/originals/db/ac/a7/dbaca7bc05dbf4e08575d6e9cabae59
 > Identify risk owners </br>
 > Agree on risk mitigation with risk owners and stakeholders </br>
 > Build your risk treatment strategy </br>
+> </br>
 > - Reduce: code upgrades, specific design choices, or configuration adjustments during deployment </br>
 > - Transfer: outsource development or deployment to 3rd parties who assume responsibility, and perform appropriate testing </br>
 > - Avoid: disable specific functions or features in the application </br>
 > - Accept: when threats fall within predefined acceptable criteria set by the risk owner </br>
+> </br>
 > Select appropriate controls to mitigate risks </br>
 > Test risk treatment to verify remediation </br>
 > Reduce risk in risk log for verified treat risk </br>
