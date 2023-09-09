@@ -1,6 +1,6 @@
 # Task x) 
 
-## Braiterman et al 2020: Threat modeling manifesto
+## Braiterman et al 2020: Threat modeling manifesto 
 
 - Threat Modeling Manifesto is a guide to develop or refine methodologies. It emphasizes VALUES and PRINCIPLES like Agile Manifesto. </br>
 - These values and principles aid in effective threat modeling and secure system development. </br>
@@ -13,6 +13,8 @@
 > Did we do a good job? </br>
 - Its output - threats - informs decisions during design, development, testing, and post-deployment phases. </br>
 - Anyone concerned about system privacy and security should use threat modeling. </br>
+
+Source: https://www.threatmodelingmanifesto.org/
 
 ## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
 
@@ -46,12 +48,16 @@ Why threat modeling? </br>
 > - Yes -> you did a good one </br>
 > - No -> you have not done a good job yet. Try again :D </br>
 
+Source: https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
+
 ## Shostack 2014: Chapter 1 - Dive In and Threat Model!
 
 - Threat modeling is a skill that anyone can learn and is essential for security. </br>
 - Threat modeling involves abstracting details to see the bigger security picture rather than focusing on code. </br>
 - Threat modeling helps identify security issues in thing not yet built and prevents problems from occuring </br>
 - Threat modeling is a practical discipline best learned through experience, similar to playing a musical instrument. </br>
+
+Source: https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1
 
 ## OWASP CheatSheets Series Team 2021
 
@@ -71,7 +77,7 @@ Why threat modeling? </br>
 - To gain an understanding of how the system works to perform a threat model, it is important to understand how the system works and interacts with its ecosystem. </br>
 > Define and Evaluate your Assets </br>
 > Create an information flow diagram </br>
-> Define Data Flow over your DFD </br>
+> Define Data Flow over your Data Flow Diagram </br>
 > Define Truste Boundaries </br>
 > Define applications user roles and trust levels </br>
 > Highlight Authorization per user role over the DFD </br>
@@ -129,7 +135,9 @@ Sources: https://i.pinimg.com/originals/db/ac/a7/dbaca7bc05dbf4e08575d6e9cabae59
 > Reduce risk in risk log for verified treat risk </br>
 > Periodically retest risk </br>
 
-# Task b) Security Hygiene
+Source: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
+
+# Task a) Security Hygiene
 
 Use Strong Passwords </br>
 > Create complex passwords with a mix of upper and lower case letters, numbers, and symbols </br>
@@ -147,5 +155,8 @@ Regular Backups </br>
 ** Beware of the Peripherals you connect to your personal / work devices </br>
 > Those can be tampered with chips that can do scary things and cost you time, money and (maybe) your jobs . </br>
 
-** Stay alert, read carefully </br>
-> YOU are the first line of defense!! </br>
+** Stay alert, read carefully, control your temptation </br>
+> YOU are the first line of defense and the most effective one!! </br>
+
+# Task b) Make-belief boogie-man - a threat model for imaginary company
+
