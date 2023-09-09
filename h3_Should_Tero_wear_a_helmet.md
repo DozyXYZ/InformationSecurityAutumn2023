@@ -129,3 +129,23 @@ Sources: https://i.pinimg.com/originals/db/ac/a7/dbaca7bc05dbf4e08575d6e9cabae59
 > Reduce risk in risk log for verified treat risk </br>
 > Periodically retest risk </br>
 
+# Task b) Security Hygiene
+
+Use Strong Passwords </br>
+> Create complex passwords with a mix of upper and lower case letters, numbers, and symbols </br>
+> Use different passwords for different accounts </br>
+
+Keep Software and Application Updated </br>
+> Regularly update your operating system, web browsers, and software applications. Updates often include security patches </br>
+
+Regular Backups </br>
+> Back up important data regularly to an external hard drive or cloud storage. This can help recover your data in case of ransomware or hardware failure </br>
+
+* Keep sensitive and private information out of your social media </br>
+> The adversaries can use those to phish your networks </br> 
+
+** Beware of the Peripherals you connect to your personal / work devices </br>
+> Those can be tampered with chips that can do scary things and cost you time, money and (maybe) your jobs . </br>
+
+** Stay alert, read carefully </br>
+> YOU are the first line of defense!! </br>
