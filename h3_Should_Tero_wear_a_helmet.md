@@ -52,3 +52,51 @@ Why threat modeling? </br>
 - Threat modeling involves abstracting details to see the bigger security picture rather than focusing on code. </br>
 - Threat modeling helps identify security issues in thing not yet built and prevents problems from occuring </br>
 - Threat modeling is a practical discipline best learned through experience, similar to playing a musical instrument. </br>
+
+## OWASP CheatSheets Series Team 2021
+
+- Threat modeling is a structured approach for identifying and prioritizing potential threats to a system and assessing the effectiveness of mitigations. </br>
+- It is recommended for all developers, designers, and architects to incorporate threat modeling into their software development process. </br>
+- Early threat modeling can save resources by identifying and addressing potential threats during the design phase. </br>
+- When creating a threat model, one should document data flows, potential threats, and security controls to enhance system security. </br>
+
+### Getting Started
+
+- Define Business Objectives help you to evaluate the impact of any threat you find during the risk analysis process. </br>
+- Identify application design </br>
+- Create design documents </br>
+
+### Decompose and Model the System
+
+- To gain an understanding of how the system works to perform a threat model, it is important to understand how the system works and interacts with its ecosystem. </br>
+> Define and Evaluate your Assets </br>
+> Create an information flow diagram </br>
+> Define Data Flow over your DFD </br>
+> Define Truste Boundaries </br>
+> Define applications user roles and trust levels </br>
+> Highlight Authorization per user role over the DFD </br>
+> Define Applications Entry Points </br>
+
+### Identify Threat Agents
+
+> Define all possible threats </br>
+> Map Threat agents to application Entry points </br>
+> Draw attack vectors and attacks tree </br>
+> Mapping Abuse Cases to Use Cases </br>
+> Re-define attack vectors </br>
+
+### Write your Threat traceability matrix
+
+#### DREAD
+
+> Define the impact and probability for each threat </br>
+> Use DREAD formula: </br>
+> </br>
+> Damage - how bad would an attack be?
+> Reproducibility - how easy it is to reproduce the attack?
+> Exploitability - how much work is it to launch the attack?
+> Affected users - how many people will be impacted?
+> Discoverability - how easy it is to discover the threat?
+> </br>
+> Risk Value = (Damage + Affected users) x (Reproducibility + Exploitability + Discoverability) </br>
+
