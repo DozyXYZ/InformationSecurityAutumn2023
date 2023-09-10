@@ -186,8 +186,8 @@ Due to the nature of volume and ultra high frequency trading, 1 second = million
 ## What can go wrong?
 
 Using STRIDE, we can identify these threats: </br>
-* Spoofing: Attackers might attempt to impersonate our hedge fund or broker to gain unauthorized access or deceive the other party. </br>
-* Tampering: This involves unauthorized modification of data, which could be historical data or live data exchanged between the hedge fund and brokers, algo can trade horribly wrong. </br>
+* Spoofing: Threat actors might attempt to impersonate our hedge fund or broker to gain unauthorized access or deceive the other party. </br>
+* Tampering: This involves unauthorized modification of data file or the algorithm, the algo can trade horribly wrong. </br>
 * Information Disclosure: The unauthorized exposure of sensitive information, like confidential trading strategies or financial data can harm both us and the brokers. </br>
 * Denial of Service: Attackers could disrupt the services or systems used by the hedge fund or brokers, making them unavailable or unreliable. </br>
 * Elevation of Privilege: This threat involves attackers gaining unauthorized access to privileged accounts or systems, potentially leading to unauthorized control or manipulation. </br>
@@ -195,11 +195,11 @@ Using STRIDE, we can identify these threats: </br>
 According to our secret model built by Risk Management team, Trading System Team and Cyber Sec team, the Exptected Loss (EL) for each threat is as follows: </br>
 * Spoofing: EL = 0.005 * 500 000 000 = €250 000 </br>
 * Tampering: EL = 0.03 * 2 000 000 000 = €60 000 000 </br>
-* Information Disclosure EL = 0.001 * 5 000 000 000 = €5 000 000 </br>
-* Denial of Service EL = 0.001 * 4 000 000 000 = 4 000 000 </br>
-* Elevation of Privilege EL = 0.0001 * 10 000 000 000 = 1 000 000 000 </br>
+* Information Disclosure: EL = 0.001 * 5 000 000 000 = €5 000 000 </br>
+* Denial of Service EL: = 0.001 * 4 000 000 000 = €4 000 000 </br>
+* Elevation of Privilege: EL = 0.0001 * 10 000 000 000 = €1 000 000 000 </br>
 
-The threats we focus on are Tampering and Information Disclosure. </br>
+The threat we focus on is Tampering. </br>
 
 Using COI - Capability, Opportunity, Intent approach, we identify the following threat actors: </br>
 * Capability: </br>
@@ -215,3 +215,20 @@ Using COI - Capability, Opportunity, Intent approach, we identify the following 
 > Financial Gain: Threat actors with a motive to manipulate financial data for financial profit fall into this category. </br>
 > Espionage: Competing hedge funds may tamper with data to gain a competitive edge or extract valuable information. </br>
 > Disruption: Individuals or groups with the intent to disrupt operations for financial gain, activism, or revenge may tamper with data to achieve their goals. </br>
+
+## What are we going to do about it?
+
+Using the Reduce, Transfer, Avoid, Accept approach, we decide that the appropriate threat response strategy for Tampering is Cryptography with Digital Signature. A digital signature is a mathematical scheme that demonstrates the authenticity of a digital message or document and ensures that it has not been altered since the signature was applied. </br>
+
+We obtain cyber insurance to alleviate some of the financial risk. Insurance can cover the damage and legal expenses when we sue the threat actors. Insurance can also help us sleep better at night. </br>
+
+## Did we do a good enough job?
+
+The digital signature: </br>
+* Ensure our data integrity, provide a robust mechanism for tamper detection </br>
+* Prevent impersonation and tamper as only the authorized entity can sign with their private key </br>
+* Provide versatility as it can applied to documents, emails, software as well </br>
+
+However, we must manage the private key. we also balance the resources to cover the computation to maintain the performance of the system.
+
+If my colleague have the mean to afford Cryptography approach to counter Tamper. I would recommend this strategy to him.
