@@ -191,7 +191,7 @@ Description: </br>
 1) The Database will feed the Algorithm in the Trading System necessary data to train the algorithm </br>
 2) When the trading system in ready, the brokers feed live data to the trading system </br>
 3) The trading system execute order using live data and what it learnt </br>
-4) The trading system store the data back to the historical data and repeat step 2
+4) The trading system store the data back to the historical data and repeat step 1
    
 ## What can go wrong?
 
