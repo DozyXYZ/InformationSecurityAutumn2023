@@ -176,13 +176,23 @@ We are working on a sentiment adaptive trading algorithm. It converts the live v
 Our key assets for this project: </br>
 *	Live Data Feed </br>
 *	Historical Data </br>
-* Algorithm and its white paper </br>
+* Trading systems with algorithm and its white paper </br>
 * Trading infrastructure: Internet Connection and Hardware </br>
 
 Due to the nature of volume and ultra high frequency trading, 1 second = million euro. The Trading System Specialists must: </br>
 * Protect and maintain the connection between us and the trading platform when we go LIVE! Keep the data flow! </br>
 * Protect the algorithm as it pays our bills and your private yacht or jet. </br>
 
+Fig b1: A self-illustrated simple Data Flow Diagram of a trading system </br>
+![Capture22](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/99ccfc9a-132d-4cf7-842c-b7ea7d99bd1b)
+
+Description: </br>
+* There are 5 objects: 1 External Entity, 1 Process, 1 Database, and 2 Trust Boundaries </br>
+1) The Database will feed the Algorithm in the Trading System necessary data to train the algorithm </br>
+2) When the trading system in ready, the brokers feed live data to the trading system </br>
+3) The trading system execute order using live data and what it learnt </br>
+4) The trading system store the data back to the historical data and repeat step 2
+   
 ## What can go wrong?
 
 Using STRIDE, we can identify these threats: </br>
