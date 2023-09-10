@@ -197,7 +197,7 @@ According to our secret model built by Risk Management team, Trading System Team
 * Tampering: EL = 0.03 * 2 000 000 000 = €60 000 000 </br>
 * Information Disclosure: EL = 0.001 * 5 000 000 000 = €5 000 000 </br>
 * Denial of Service EL: = 0.001 * 4 000 000 000 = €4 000 000 </br>
-* Elevation of Privilege: EL = 0.0001 * 10 000 000 000 = €1 000 000 000 </br>
+* Elevation of Privilege: EL = 0.0001 * 10 000 000 000 = €1 000 000 </br>
 
 The threat we focus on is Tampering. </br>
 
