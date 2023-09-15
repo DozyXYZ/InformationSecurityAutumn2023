@@ -19,10 +19,10 @@ Source: https://www.sttmedia.com/characterfrequency-vietnamese
 
 ## What threats does it protect against?
 
-Password Theft: LastPass protects against password theft by securely storing and managing your passwords. This reduces the risk of your passwords being stolen through methods like phishing attacks or keyloggers. </br>
-Weak Passwords: It produces strong, unique passwords for each of your accounts, reducing the risk of unauthorized access due to weak or reused passwords. </br>
-Brute Force Attacks: It has built-in mechanisms to prevent or detect repeated login attempts, safeguarding your accounts against brute force attacks. </br>
-Man-in-the-Middle Attacks: It can generate and autofill passwords, ensuring that you're not entering your credentials on fake or compromised websites. </br>
+* Password Theft: Bitwarden helps protect against password theft by securely storing and managing passwords in an encrypted vault, reducing the need for users to remember or write down passwords.</br>
+* Brute Force Attacks: Bitwarden encourages the use of strong, unique passwords for each account, making it difficult for attackers to guess passwords through brute force.</br>
+* Phishing: Bitwarden can help users avoid falling victim to phishing attacks by autofilling login credentials only on legitimate websites and not on phishing pages.</br>
+* Data Breaches: By storing passwords securely and enabling two-factor authentication (2FA), Bitwarden mitigates the impact of data breaches, as stolen passwords alone are insufficient to gain access to accounts.
 
 ## What information is encrypted, what not?
 
