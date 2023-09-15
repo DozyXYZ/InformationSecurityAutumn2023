@@ -2,12 +2,12 @@
 
 According to Stefan Trost Media'study of a Vietnamese text with 1 649 178 characters or 365 324 words, the 6 most common letters are:
 
-* N: 11.01% </br>
-* H: 7.95% </br>
-* C: 6.71% </br>
-* T: 6.60% </br>
-* I: 5.71% </br>
-* A: 5.29% </br>
+* N: 11.01%
+* H: 7.95%
+* C: 6.71%
+* T: 6.60%
+* I: 5.71%
+* A: 5.29%
 
 Unlike other languages, the vowels a e o u i can add special characteristic and sound signs to create different pronunciation: </br>
 For example: a -> ă â -> ằ ắ ẳ ẵ ặ ấ ầ ẩ ẫ ậ </br>
@@ -19,9 +19,9 @@ Source: https://www.sttmedia.com/characterfrequency-vietnamese
 
 ## What threats does it protect against?
 
-* Password Theft: Bitwarden helps protect against password theft by securely storing and managing passwords in an encrypted vault, reducing the need for users to remember or write down passwords.</br>
-* Brute Force Attacks: Bitwarden encourages the use of strong, unique passwords for each account, making it difficult for attackers to guess passwords through brute force.</br>
-* Phishing: Bitwarden can help users avoid falling victim to phishing attacks by autofilling login credentials only on legitimate websites and not on phishing pages.</br>
+* Password Theft: Bitwarden helps protect against password theft by securely storing and managing passwords in an encrypted vault, reducing the need for users to remember or write down passwords.
+* Brute Force Attacks: Bitwarden encourages the use of strong, unique passwords for each account, making it difficult for attackers to guess passwords through brute force.
+* Phishing: Bitwarden can help users avoid falling victim to phishing attacks by autofilling login credentials only on legitimate websites and not on phishing pages.
 * Data Breaches: By storing passwords securely and enabling two-factor authentication (2FA), Bitwarden mitigates the impact of data breaches, as stolen passwords alone are insufficient to gain access to accounts.
 
 ## What information is encrypted, what not?
@@ -31,7 +31,7 @@ Source: https://www.sttmedia.com/characterfrequency-vietnamese
 
 ## What's the licences?
 
-* Bitwarden clients: The core password management code for individual password vaults, including Desktop, Web, Browser, Mobile, and CLI versions, is available under the GNU General Public License (GPL) 3.0 license.</br>
+* Bitwarden clients: The core password management code for individual password vaults, including Desktop, Web, Browser, Mobile, and CLI versions, is available under the GNU General Public License (GPL) 3.0 license.
 * Bitwarden server: The main Bitwarden server code is licensed under the GNU Affero General Public License (AGPL) 3.0 license.
 
 * Categorize: The GPL is a strong copyleft license, meaning that any modifications or derivative works must also be open source and share the same licensing terms. This promotes the continued openness and availability of the software.
@@ -46,7 +46,7 @@ Source: https://github.com/bitwarden/server/blob/master/LICENSE_FAQ.md
 
 * The users and Bitwarden's agreement are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and Bitwarden agree to submit to the exclusive jurisdiction and venue of the courts located in the State of California.
 
-Source 1: https://bitwarden.com/terms/ 
+Source 1: https://bitwarden.com/terms/ </br>
 Source 2: https://bitwarden.com/help/data-storage/#:~:text=Bitwarden%20processes%20and%20stores%20all%20vault%20data%20securely,is%20no%20server%20infrastructure%20to%20manage%20and%20maintain.
 
 ## How is the data protected?
@@ -57,5 +57,5 @@ Source 2: https://bitwarden.com/help/data-storage/#:~:text=Bitwarden%20processes
 * Uses AES-CBC 256-bit to encrypt vault data, and PBKDF2 SHA-256 / Argon2id to derive user's encryption key from the entered password.
 * Third-party independent application/code-library/network-infrastructure audits and bug bounty program
 
-Source 1: https://bitwarden.com/help/is-bitwarden-audited/
+Source 1: https://bitwarden.com/help/is-bitwarden-audited/  </br>
 Source 2: https://bitwarden.com/help/what-encryption-is-used/
