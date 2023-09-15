@@ -1,3 +1,5 @@
+# Task x) Applied Cryptocraphy, Chapter 1: Foundations
+
 # Task y) Frequency Distribution of letters in the Vietnamese Language
 
 According to Stefan Trost Media'study of a Vietnamese text with 1 649 178 characters or 365 324 words, the 6 most common letters are:
@@ -59,3 +61,15 @@ Source 2: https://bitwarden.com/help/data-storage/#:~:text=Bitwarden%20processes
 
 Source 1: https://bitwarden.com/help/is-bitwarden-audited/  </br>
 Source 2: https://bitwarden.com/help/what-encryption-is-used/
+
+# Task a) ETAOIN
+
+HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG </br>
+THAT'S IT. YOU'RE NOW OFFICIALLY A CODEBREAKER! AS YOU SEE, SIMPLE SUBSTITUTION CIPHERS CAN BE BROKEN WITH FREQUENCY ANALYSIS. SEE YOU AT HTTP://TEROKARVINEN.COM
+
+Ori A B C D E F G H I J K L M N O P Q R S T U V W X Y Z </br>
+Sub M N O Q I S _ D T _ L J G A W _ E Y B H _ _ R _ K _
+
+
+
+# Task b) Demonstrate the use of a password manager
