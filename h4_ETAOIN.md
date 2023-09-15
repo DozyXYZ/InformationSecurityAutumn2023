@@ -70,10 +70,4 @@ THAT'S IT. YOU'RE NOW OFFICIALLY A CODEBREAKER! AS YOU SEE, SIMPLE SUBSTITUTION 
 Fig a1: Original alphabet and substitution </br>
 ![Capture](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/0b855367-70f6-4845-b514-83ee10c7f2e8)
 
-
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z </br>
-M N O Q I S _ D T _ L J G A W _ E Y B H _ _ R _ K _
-
-
-
 # Task b) Demonstrate the use of a password manager
