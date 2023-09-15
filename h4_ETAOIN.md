@@ -9,7 +9,7 @@ According to Stefan Trost Media'study of a Vietnamese text with 1 649 178 charac
 * I: 5.71% </br>
 * A: 5.29% </br>
 
-Unlike other languages, Vietnamese vowels can add special characteristic and sound signs to create different pronunciation:
+Unlike other languages, the vowels a e o u i can add special characteristic and sound signs to create different pronunciation:
 
 For example: a -> ă â -> ằ ắ ẳ ẵ ặ ấ ầ ẩ ẫ ậ
 
