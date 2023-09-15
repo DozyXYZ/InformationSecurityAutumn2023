@@ -15,7 +15,7 @@ There are 29 letters in the Vietnamese alphabet but with special characteristics
 
 Source: https://www.sttmedia.com/characterfrequency-vietnamese
 
-# Task z) Password Manager: Bitwarden, Open Source Password Manager (https://github.com/bitwarden)
+# Task z) Bitwarden, Open Source Password Manager (https://github.com/bitwarden)
 
 ## What threats does it protect against?
 
