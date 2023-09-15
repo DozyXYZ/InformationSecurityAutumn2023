@@ -15,7 +15,7 @@ There are 29 letters in the Vietnamese alphabet but with special characteristics
 
 Source: https://www.sttmedia.com/characterfrequency-vietnamese
 
-# Task z) Password Manager: LastPass
+# Task z) Password Manager: Bitwarden, Open Source Password Manager (https://github.com/bitwarden)
 
 ## What threats does it protect against?
 
@@ -26,3 +26,36 @@ Source: https://www.sttmedia.com/characterfrequency-vietnamese
 
 ## What information is encrypted, what not?
 
+* Bitwarden encrypts various types of information, including passwords, secure notes, credit card information, and personal identity data. Essentially, any data you store within Bitwarden's vault is encrypted.</br>
+* What's Not Encrypted: Bitwarden does not encrypt data that you do not explicitly store within its vault. For example, information stored outside Bitwarden, such as files on your computer or data in unsecured text files, is not automatically encrypted by Bitwarden.</br>
+
+## What's the licences?
+
+* Bitwarden clients: The core password management code for individual password vaults, including Desktop, Web, Browser, Mobile, and CLI versions, is available under the GNU General Public License (GPL) 3.0 license.</br>
+* Bitwarden server: The main Bitwarden server code is licensed under the GNU Affero General Public License (AGPL) 3.0 license.
+
+* Categorize: The GPL is a strong copyleft license, meaning that any modifications or derivative works must also be open source and share the same licensing terms. This promotes the continued openness and availability of the software.
+
+Source: https://github.com/bitwarden/server/blob/master/LICENSE_FAQ.md
+
+## Where is the data store?
+
+* Bitwarden processes and stores all vault data securely in the Microsoft Azure Cloud in the US or EU using services that are managed by the team at Microsoft.
+
+* Bitwarden Inc. is incorporated in the State of Delaware in the United States of America. 8bit Solutions LLC is wholly owned by Bitwarden Inc.
+
+* The users and Bitwarden's agreement are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and Bitwarden agree to submit to the exclusive jurisdiction and venue of the courts located in the State of California.
+
+Source 1: https://bitwarden.com/terms/ 
+Source 2: https://bitwarden.com/help/data-storage/#:~:text=Bitwarden%20processes%20and%20stores%20all%20vault%20data%20securely,is%20no%20server%20infrastructure%20to%20manage%20and%20maintain.
+
+## How is the data protected?
+
+* Open Source Code Base
+* Zero-knowledge encryption: the company can't see the vault contents
+* End-to-end encryption of the stored vault data
+* Uses AES-CBC 256-bit to encrypt vault data, and PBKDF2 SHA-256 / Argon2id to derive user's encryption key from the entered password.
+* Third-party independent application/code-library/network-infrastructure audits and bug bounty program
+
+Source 1: https://bitwarden.com/help/is-bitwarden-audited/
+Source 2: https://bitwarden.com/help/what-encryption-is-used/
