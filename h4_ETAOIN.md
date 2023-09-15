@@ -9,5 +9,11 @@ According to Stefan Trost Media'study of a Vietnamese text with 1 649 178 charac
 * I: 5.71% </br>
 * A: 5.29% </br>
 
+Unlike other languages, Vietnamese vowels can add special characteristic and sound signs to create different pronunciation:
+
+For example: a -> ă â -> ằ ắ ẳ ẵ ặ ấ ầ ẩ ẫ ậ
+
+There are 29 letters in the Vietnamese alphabet but with special characteristics and sound signs, the maximum unique letters are 82.
+
 Source: https://www.sttmedia.com/characterfrequency-vietnamese
 
