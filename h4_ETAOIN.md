@@ -181,7 +181,7 @@ Fig a1: Original alphabet and substitution </br>
 
 ![1 Update](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/fd6f4f2e-2d97-49e9-bcf3-32d671b9748b)
 
-## 2) Install PGP, an encryption program that provides cryptography and authentication for data communication using a combination of public and private keys. It is recommended by Tero and many cybersecurity expert.
+## 2) Install PGP, an encryption program that provides cryptography and authentication for data communication using a combination of public and private keys. It is recommended by Tero and many cybersecurity experts.
 
 ![2 instal pgp](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/c853e077-c2c5-413a-a866-abdf029f90a9)
 
