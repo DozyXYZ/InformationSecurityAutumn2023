@@ -72,20 +72,26 @@ Fig a1: Original alphabet and substitution </br>
 
 # Task b) Demonstrate the use of a password manager
 
-1) Visit website: https://bitwarden.com/
-2) Register a new account and verify your email
+## 1) Visit website: https://bitwarden.com/
+
+## 2) Register a new account and verify your email
+
 ![1 register](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/903434b0-bd1b-4e9d-8e5b-23f5f729f8e2)
    
-3) Add a new item to the vault
-![3 Add Item](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/dcd0ea9c-b2f1-4205-9c16-a3cc9a17b3bd)
+## 3) Add a new item to the vault
+
+![2 UI](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/68e00eb7-b23b-41ed-9bdd-0170011f94d7)
 ![3 steam login item](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/178bf262-e95e-4478-aa28-c7a9f4018853)
 
-4) Add extension on browser and login the extension
+## 4) Add extension on browser and login the extension
+
 ![4 add extension](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/9a3d44c9-d15a-40c3-93e9-9fb81a197cbc)
 ![5 Login into extension](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/da9e032c-fddf-4df2-b982-14c98a6dae60)
 
-5) Go to webpage that you have in your password vault, click on extension, select login  
- ![6 select autofill](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/5d55988e-a2c4-4fbd-aea1-0d9fb14618b8)
+## 5) Go to webpage that you have in your password vault, click on extension, select login
+
+![6 select autofill](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/5d55988e-a2c4-4fbd-aea1-0d9fb14618b8)
   
-6) Complete!
+## 6) Complete!
+
 ![7 login complete](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/fee7fb68-4b3c-4086-ad08-121841e60b47)
