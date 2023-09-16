@@ -1,6 +1,6 @@
 # Task x) Applied Cryptocraphy, Chapter 1: Foundations
 
-Cryptogrphy is all about: </br>
+Cryptography is all about: </br>
 * Authentication: the receiver of a message ascertain its origins.
 * Integrity: the receiver of a message verify that it has not been modified in transit.
 * Nonrepudiation: the sender should not be able to deny that he sent the message.
@@ -58,6 +58,25 @@ Complexity of an attack:
 * Polygram substitution cipher: blocks of characters are encrypted in groups. Plaintext ABA -> Ciphertext RTQ
 * Polyalphabetic substitution cipher: multiple simple substitution cipher used together.
 > Running-key (book) cipher: one text is used to encrypt another cipher.
+
+### Transposition Ciphers
+
+The plaintext remains the same, but the order of characters is shuffled around </br>
+
+Columar transposition cipher: https://www.youtube.com/watch?v=cPQXaYUMOjQ </br>
+
+Fig x3: Columnar transposition cipher </br>
+![Rotors](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/1753172e-b576-4eb0-a2d5-e759aa15b25b)
+
+### XOR: exclusive-or operation, no-real security with simple XOR, trivial to break even without computer.
+
+### One-time pad: a large nonrepeating set of truly random key letters, written on sheets of paper, and glued together in a pad.
+Example: https://www.youtube.com/watch?v=6iYqHn3q8sY
+
+### Computer algorithms
+* DES - Data Encryption Standard: most popular computer encryption algorithm - symmetric
+* RSA - Rivest, Shamir, Adleman - the creators: most popular public-key algorithm. used for both encryption and digital signature
+* DSA - Digital Signature Algorithm, used as part of Digital signature standard, public-key algorithm but cannot be used for encryption but only for digital signatures.
 
 # Task y) Frequency Distribution of letters in the Vietnamese Language
 
