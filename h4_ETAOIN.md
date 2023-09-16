@@ -95,3 +95,53 @@ Fig a1: Original alphabet and substitution </br>
 ## 6) Complete!
 
 ![7 login complete](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/fee7fb68-4b3c-4086-ad08-121841e60b47)
+
+
+# Task c) and m) Encrypt and decrypt a message
+
+## 1) Update the system
+
+![1 Update](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/fd6f4f2e-2d97-49e9-bcf3-32d671b9748b)
+
+## 2) Install PGP, an encryption program that provides cryptography and authentication for data communication using a combination of public and provate keys
+
+![2 instal pgp](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/c853e077-c2c5-413a-a866-abdf029f90a9)
+
+## 3) Generate the keys for my email, I can send the public key to everyone I want to send a message to, I keep the private key to myself
+
+![3 gen key](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/7783e2f2-dad9-4ab8-b527-2d842c9467de)
+
+## 4) Export the file to a file .asc
+
+> -armor to change unreadable characters to readable characters </br>
+> ls command to see the files in the folder </br>
+> send the public key to others using email 
+
+![4 export and ls](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/974222a3-fb62-419b-8bd9-a354d876996d)
+
+## 5) Import the public key of the email of my friend ibrahim, he wanted to send me a message
+
+![5 1 import](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/a927befb-b0a3-49a3-901e-1740977f154e)
+![5 2 import2](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/26a9f7ce-7dac-4703-bc0a-8933de5ec1d7)
+
+## 6) Ibrahim sent me his encrypted message via his email, I copied it to the terminal and decrypted the message
+
+![6 decrypt](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/aa196b5e-6f52-4a14-9a2a-8fbce861555f)
+
+## 7) Use -fingerprint to check it is the real Ibrahim and not Mallory
+
+![7 use -fingerprint to check that it is really Ibrahim](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/05e9adaa-ea4f-4054-8244-810d4751d8a1)
+
+## 8) I reply him back with an encrypted message
+
+> check the Primary key fingerprint to ensure I sent to the real Ibrahim </br>
+> copy the encrypted message and send to his email via my school email
+
+![8 reply email](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/ebfba2b4-1c65-46d4-bc71-7c2c4c2f32b8)
+
+# I had an issue with the time of the system
+
+> use $ sudo timedatectl set-time "yyyy-mm-dd hh:mm" to set the time correctly
+
+
+
