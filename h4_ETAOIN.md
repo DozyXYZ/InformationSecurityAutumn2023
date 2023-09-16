@@ -14,10 +14,14 @@ A cryptosystem is an algorithm, plus all possible plain text, ciphertexts and ke
 
 Fig x1: Symmetric algorithms
 
+![1 ED 1 key](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/bf86bee0-dccc-4c6e-a132-ecb6f3bda6a0)
+
 ### Public key algorithms (asymmetric algorithms): the encryption key is different from / cannot be calculated the decryption key. </br>
 * Anyone can use the public (encryption) key to encrypt a message but only the specific person with the corresponding decryption (decryption) key can decrypt a message.
 
 Fig x2: Public key algorithms
+
+![1 ED 2 keys](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/060adc38-d9aa-4a66-b05b-fb5c71910e44)
 
 ### Cryptanalysis: the science of recovering the plaintext of a message without access to the key. An attempted crytanalysis is called an Attack.
 * Ciphertext-only attack 
@@ -27,6 +31,33 @@ Fig x2: Public key algorithms
 * Chosen-ciphertext attack
 * Chosen-key attack
 * Rubber-hose cryptanalysis / Purchase-key attack
+
+### Security of algorithms
+Different algorithms offer different degrees of security; depends on how hard they are to break. Lars Knudsen classified categories of breaking an algorithms in decreasing order of severity: </br>
+* Total Break: the attacker finds the key
+* Global Deduction: the attacker finds an alternate algorithm
+* Instance (local) deduction: the attacker finds the plaintext of an intercepted ciphertext
+* Information deduction: the attacker gains some information about the key or plaintext
+
+Security:
+* Unconditionally secure algorithm: no matter how much ciphertext the attacker has, there is not enough information to recover the plaintext
+* Computationally secure algorithm: it cannot be broken with the current or future resources
+
+Complexity of an attack:
+* Data complexity: the amount of data needed as input to the attack
+* Processing complexity: the time needed to perform the attack (work factor)
+* Storage requirements: the amount of memory needed to do the attack
+
+### Steganography: the science of hiding secret messages in other messages, such that the secret's very existence is concealed.
+
+### Substitution Ciphers
+* Simple (monoalphabetic) cipher: each character of plaintext is replaced with a corresponding character of ciphertext. Plaintext A -> Ciphertext N
+> Caesar Cipher: 3 characters to the right in the English alphabet. A -> D, B -> E </br>
+> ROT13: 13 characters to the right. A -> N, B -> O
+* Homophonic substitution cipher: a single character of plaintext can map to one of several characters of ciphertext. Plaintext A -> Ciphertext 1, 12, 21, 
+* Polygram substitution cipher: blocks of characters are encrypted in groups. Plaintext ABA -> Ciphertext RTQ
+* Polyalphabetic substitution cipher: multiple simple substitution cipher used together.
+> Running-key (book) cipher: one text is used to encrypt another cipher.
 
 # Task y) Frequency Distribution of letters in the Vietnamese Language
 
