@@ -1,5 +1,33 @@
 # Task x) Applied Cryptocraphy, Chapter 1: Foundations
 
+Cryptogrphy is all about: </br>
+* Authentication: the receiver of a message ascertain its origins.
+* Integrity: the receiver of a message verify that it has not been modified in transit.
+* Nonrepudiation: the sender should not be able to deny that he sent the message.
+
+Cryptographic algorithm (cipher) is a mathematical function used for encryption and decryption. </br>
+A cryptosystem is an algorithm, plus all possible plain text, ciphertexts and keys.
+
+### Symmetric algorithms: the encryption key can be calculated from the decryption key and vice versa.
+* Stream algorithms: algorithms operate on the plaintext a single bit or byte at a time.
+* Block algorithms: algorithms operate on groups of bits.
+
+Fig x1: Symmetric algorithms
+
+### Public key algorithms (asymmetric algorithms): the encryption key is different from / cannot be calculated the decryption key. </br>
+* Anyone can use the public (encryption) key to encrypt a message but only the specific person with the corresponding decryption (decryption) key can decrypt a message.
+
+Fig x2: Public key algorithms
+
+### Cryptanalysis: the science of recovering the plaintext of a message without access to the key. An attempted crytanalysis is called an Attack.
+* Ciphertext-only attack 
+* Known-plaintext attack
+* Chosen-plaintext attack
+* Adaptive-chosen-plaintext attack
+* Chosen-ciphertext attack
+* Chosen-key attack
+* Rubber-hose cryptanalysis / Purchase-key attack
+
 # Task y) Frequency Distribution of letters in the Vietnamese Language
 
 According to Stefan Trost Media'study of a Vietnamese text with 1 649 178 characters or 365 324 words, the 6 most common letters are:
