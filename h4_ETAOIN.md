@@ -80,7 +80,7 @@ Example: https://www.youtube.com/watch?v=6iYqHn3q8sY
 
 # Task y) Frequency Distribution of letters in the Vietnamese Language
 
-According to Stefan Trost Media'study of a Vietnamese text with 1 649 178 characters or 365 324 words, the 6 most common letters are:
+According to Stefan Trost Media's study of a Vietnamese text with 1 649 178 characters or 365 324 words, the 6 most common letters are:
 
 * N: 11.01%
 * H: 7.95%
