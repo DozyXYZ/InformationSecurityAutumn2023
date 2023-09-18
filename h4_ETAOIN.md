@@ -109,7 +109,7 @@ Source: https://www.sttmedia.com/characterfrequency-vietnamese
 * Bitwarden encrypts various types of information, including passwords, secure notes, credit card information, and personal identity data. Essentially, any data you store within Bitwarden's vault is encrypted.</br>
 * What's Not Encrypted: Bitwarden does not encrypt data that you do not explicitly store within its vault. For example, information stored outside Bitwarden, such as files on your computer or data in unsecured text files, is not automatically encrypted by Bitwarden.</br>
 
-## What's the licences?
+## What are the licenses?
 
 * Bitwarden clients: The core password management code for individual password vaults, including Desktop, Web, Browser, Mobile, and CLI versions, is available under the GNU General Public License (GPL) 3.0 license.
 * Bitwarden server: The main Bitwarden server code is licensed under the GNU Affero General Public License (AGPL) 3.0 license.
