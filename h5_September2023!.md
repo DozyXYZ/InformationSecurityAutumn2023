@@ -47,7 +47,8 @@ Fig a6: The output of the hashcat command
 > Hash Target: 6b1628b016dff46e6fa35684be6acc96 </br>
 > Speed: 7882 H/s (7882 Hash per second) </br>
 
-![7 output](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/39a14e05-1dab-4587-874c-a84fef148004)
+![6 output](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/a5a3633b-12bf-4d63-a819-aac808f05068)
+
 
 Fig a6: The output Use cat command to display the content of the file 'solve', the password is 'summer'
 > $ cat solved
