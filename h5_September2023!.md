@@ -59,7 +59,7 @@ Fig a7: The output Use cat command to display the content of the file 'solve', t
 Fig b1: Use -m parameter in hashid command to figure out the possibility MD2, MD4, MD5 is the top results
 > $ hashid -m 8eb8e307a6d649bc7fb51443a06a216f
 
-![7 Crack the hash](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/b01659c1-1b65-4635-8e2c-c2fe84ac0894)
+![6 identify target hash](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/b4f3be7c-ad5d-4931-b505-a618265dfc23)
 
 Fig b2: Try MD5 hash to crack the password (parameter -m 0)
 > $ hashcat -m 0 '8eb8e307a6d649bc7fb51443a06a216f' rockyou.txt -o solved </br>
