@@ -31,13 +31,13 @@ Fig a4: Use -m parameter in hashid command to figure out the possibility of the 
 
 ![4 crack the sample hash](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/e320626c-0617-4129-ab1a-6038245cf23b)
 
+## Crack the Hash
+
 Fig a5: With hashcat, the password usually in the first 3 results. This sample choose MD5 (Hash type: 0)
 > $ hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved </br>
 > -m 0 to select the hash type MD5 </br>
 > rockyou.txt to select the dictionary </br>
 > -o solved to send the output to a file name "solved" </br>
-
-## Crack the Hash
 
 ![5 command crack, save in a file](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/a61015e5-554b-48e7-97e2-f56a6a8dae55)
 
@@ -49,8 +49,7 @@ Fig a6: The output of the hashcat command
 
 ![6 output](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/a5a3633b-12bf-4d63-a819-aac808f05068)
 
-
-Fig a6: The output Use cat command to display the content of the file 'solve', the password is 'summer'
+Fig a7: The output Use cat command to display the content of the file 'solve', the password is 'summer'
 > $ cat solved
 
 ![6 sample password](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/4fb70341-596e-4aa2-976b-c5f8b8c7fd68)
