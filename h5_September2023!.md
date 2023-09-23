@@ -1,9 +1,8 @@
 # Task x) Summary
 
-## Applied Cryptography
+## Applied Cryptography - Bruce Schneier
 
 ### One-way functions
-
 * They are the fundamental buidling blocks for most of the public-key cryptography
 * They are relative easy to compute but significant harder to reverse (take millions of year to reverse the functions)
 * Example: breaking a plate is easy but put them back together is not easy
@@ -32,6 +31,53 @@
 > It works the same as hash function but only someone with the key can verify the hash value </br>
 > You can create MAC out of a hash function or a block encryption algo.
 
+## Phishing through email - Niklas Särökaari
+Source: https://www.youtube.com/watch?v=m9YFJGSHYtY
+
+### What is Phishing?
+* Sending emails that appear to be from reputable sources to influence or gain personal information
+* Email can contain a malicious attachment or link to an "seem legit" site to trick the victims provide their credentials
+
+### Why people click phishing links?
+* Out of curiosity
+* Message fit their expectations
+* Thought they might know the sender
+
+### The goals of phishing - Engagement
+* What are the points of the phishing campaign? Steal credentials, track and measure the number of clicks, or measure the reaction and report of employees to company
+
+### Protection mechanisms and how to bypass them
+* Sender Policy Framework (SPF): simple email validation system where the receiving mail server checks if the senders IP address is the expected one
+> Before attacking, check if SPF of the victim is configured
+
+* DomainKeys Identified Mail (DKIM): combat against spoofing an email. Sending mail server applies a digital signature, which can be validated by the recipient
+* Domain Message Authentication, Reporting & Conformance (DMARC): policy to receive reports to detect possible abuse attempt
+> Configured SPF and DKIM to makes your domain more reputable and legitimate in the victim's eyes
+
+* Filtering: protection against malicious attachments, prevent poorly made phishing emails reaching its intended target. URL whitelisting / web filtering / greylisting are the techniques to counter phishing
+
+* Site Cloning: Effective for targeted phishing campaigns where the goal is to steal creds
+> always use fully qualified domain name FQDN and HTTPS
+
+* IDN Homograph attack: register domains with foreign chars: gmail vs. gmäil
+
+### What usually works in phishing?
+* Package delivery message
+* Mail from ServiceDesk / IT Department
+* LinkedIn, Gmail, Dropbox, etc.
+* Events that currently relevant to the company (IPOs, year end party, campaigns, etc.)
+* Sharepoint like service
+
+From Verizon 2013 Data Breach Investigation Reports, the inevitability of the click is around 16 emails, meaning if you send more than 16 emails, there is at least 1 victim click the email </br>
+Clicking is not enough, the victim must provide their credentials </br>
+Reconnaissance is an important step when conducting phishing campaign (study the victim)
+
+### What to do?
+* Implement SPF, DKIM, DMARC
+* Keep your domain safe
+* Educate and train users
+* Secure your infrastructure
+* Use phishing catcher such as x0rz to catch malicious phishing domains
 
 # Task a) Hashcat and Cracking sample hash
 
@@ -112,3 +158,4 @@ Fig b4: The output Use cat command to display the content of the file 'solve', t
 
 ![8 the hash is February](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/1043ecb8-3bed-4ae5-bbbb-c5957410214d)
 
+# Task c) Phishing Email Scheme
