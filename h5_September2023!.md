@@ -195,7 +195,7 @@ Technical tactics:
 * Spoofed sender information: the advisory uses a fake name and email address of a well known and trusted bank
 > mallory.remmacs@ibob-aml.bv - ibob: Iron Bank of Braavos, bv: Braavos same as fi: Finland
 
-* Malicious Link: the link leads to a fake website to steal the credentials of the victims
+* Malicious Link: the victims will provide their credentials in a fake website. the link leads to a fake website that look extremely close to the real website.
 > Fake website: theironbankofbravos.com </br>
 > Real website: theironbankofbraavos.com
 
