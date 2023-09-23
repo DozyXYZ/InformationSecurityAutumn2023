@@ -1,5 +1,31 @@
 # Task x) Summary
 
+## Applied Cryptography
+
+### One-way functions
+
+* They are the fundamental buidling blocks for most of the public-key cryptography
+* They are relative easy to compute but significant harder to reverse (take millions of year to reverse the functions)
+* Example: breaking a plate is easy but put them back together is not easy
+* A message encrypted with one-way function is not useful as no one could decrypt it
+* Trapdoor one-way function is a special type of one-way function.
+> It is easy to compute in one direction and hard to compute in the other direction </br>
+> However, if you know a secret then you can compute from other direction easily </br>
+> Example: it is easy to dissemble the watch, it is hard to assemble it again, but if you know the instruction or have the manual, it make the assembling task easier </br>
+
+### One-way hash functions (aka ...
+> Compression function, contraction function </br>
+> Message digest, fingerprint, cryptography checksum </br>
+> Message integrity check </br>
+> Manipulation detection code)
+
+* They are the fundamental for modern cryptography
+* A hash function takes a variable-length input string (pre-image) and convert it to a fixed length output string (hash value)
+* The point is to fingerprint the pre-image to produce a vale that indicates whether a candidate pre-image is likely to be the same as the real pre-image
+* As there are infinite input but finite output, hash functions generally are many-to-one. 1 hash function possibly represent different inputs
+* 
+
+
 # Task a) Hashcat and Cracking sample hash
 
 ## Install Hashcat
