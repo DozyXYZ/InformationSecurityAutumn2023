@@ -159,3 +159,53 @@ Fig b4: The output Use cat command to display the content of the file 'solve', t
 ![8 the hash is February](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/1043ecb8-3bed-4ae5-bbbb-c5957410214d)
 
 # Task c) Phishing Email Scheme
+
+## The email
+
+From Iron Bank Anti Money Laundering Department
+<mallory.remmacs@ibob-aml.bv>
+
+Subject: Urgent: Account Verification Required
+
+Dear Ms. Cersei Lannister,
+
+We regret to inform you that your Iron Bank account has been temporarily suspended due to suspicious money laundering activities.
+To protect your account and prevent unauthorized access, we kindly request that you verify your account information through the following link:
+
+theironbankofbravos.com
+
+Please note that failure to verify your account within 24 hours will result in permanent suspension.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Mallory Remmacs III
+Head of Anti Money Laundering Department
+The Iron Bank of Braavos, King's Landing Branch
+
+## Analyze
+
+The organization: The Iron Bank of Braavos, the most popular and prestigious bank in this fiction cashless society
+The victims: People who have an account at the Iron Bank (middle to elite class)
+The advisory: Broke-ass student who hope to phish some money to cover his daily needs
+
+The goal of the phishing: Getting the credentials of the victims to control and empty the bank account
+
+Technical tactics:
+* Spoofed sender information: the advisory uses a fake name and email address of a well known and trusted bank
+> mallory.remmacs@ibob-aml.bv - ibob: Iron Bank of Braavos, bv: Braavos same as fi: Finland
+
+* Malicious Link: the link leads to a fake website to steal the credentials of the victims
+> Fake website: theironbankofbravos.com </br>
+> Real website: theironbankofbraavos.com
+
+Psychological tactics:
+* Urgency and Fear: this email create a sense of urgency and fear to pressure the recipients into taking immediate action. Bank account suspension can cause serious panic to people
+* Authority and Trust: Head of the Anti Money Laundering Department gives the authority and look very legitimate in this situation
+* Personalization: The email include the name of the victim to make the email look more authentic and personalized
+
+Conclusion:
+> In a cashless society, people have their money and even identity tight to the bank (Finnish ID -> Bank ID -> Make life easier in Finland). 
+> So if the bank account has a problem, the account holder will have x100 problem.
+> An email like this can cause people a short panic and anxiety moment.
+> In a common sense, they will do verification immediately to avoid account suspension.
