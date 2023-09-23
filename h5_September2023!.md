@@ -23,7 +23,14 @@
 * A hash function takes a variable-length input string (pre-image) and convert it to a fixed length output string (hash value)
 * The point is to fingerprint the pre-image to produce a vale that indicates whether a candidate pre-image is likely to be the same as the real pre-image
 * As there are infinite input but finite output, hash functions generally are many-to-one. 1 hash function possibly represent different inputs
-* 
+* One-way hash function works the same way as one-way function: easy to generate the has value from the pre-image but it is hard to generate the pre-image that hashes to a particular value
+* A good one-way hash function is collision free (it is hard to generate two pre-images with the same hash value)
+* The security of a hash function is its one-wayness. The output is not dependent on the input and one tiny bit change will change the hash completely
+* Given the hash value, it is unfeasible to compute a pre-image that hashes to that value
+* Message Authentication Code MAC or Data Authentication Code DAC is a one-way hash function with the addition of a secret key:
+> The hash value is a function of both the pre-image and the key </br>
+> It works the same as hash function but only someone with the key can verify the hash value </br>
+> You can create MAC out of a hash function or a block encryption algo.
 
 
 # Task a) Hashcat and Cracking sample hash
