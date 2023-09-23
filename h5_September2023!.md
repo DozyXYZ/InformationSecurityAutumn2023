@@ -200,7 +200,7 @@ Technical tactics:
 > Real website: theironbankofbraavos.com
 
 Psychological tactics:
-* Urgency and Fear: this email create a sense of urgency and fear to pressure the recipients into taking immediate action. Bank account suspension can cause serious panic to people
+* Urgency and Fear: this email create a sense of urgency and fear to pressure the recipients into taking immediate action. Money Laundering is a serious crime and bank account suspension can cause serious trouble to people
 * Authority and Trust: Head of the Anti Money Laundering Department gives the authority and look very legitimate in this situation
 * Personalization: The email include the name of the victim to make the email look more authentic and personalized
 
