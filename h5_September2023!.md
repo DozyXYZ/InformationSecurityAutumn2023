@@ -162,8 +162,8 @@ Fig b4: The output Use cat command to display the content of the file 'solve', t
 
 ## The email
 
-From Iron Bank Anti Money Laundering Department
-<mallory.remmacs@ibob-aml.bv>
+From Iron Bank Anti Money Laundering Department </br>
+<mallory.remmacs@ibob-aml.bv> </br>
 
 Subject: Urgent: Account Verification Required
 
@@ -178,15 +178,15 @@ Please note that failure to verify your account within 24 hours will result in p
 
 Thank you for your prompt attention to this matter.
 
-Sincerely,
-Mallory Remmacs III
-Head of Anti Money Laundering Department
+Sincerely, </br>
+Mallory Remmacs III </br>
+Head of Anti Money Laundering Department </br>
 The Iron Bank of Braavos, King's Landing Branch
 
 ## Analyze
 
-The organization: The Iron Bank of Braavos, the most popular and prestigious bank in this fiction cashless society
-The victims: People who have an account at the Iron Bank (middle to elite class)
+The organization: The Iron Bank of Braavos, the most popular and prestigious bank in this fiction cashless society </br>
+The victims: People who have an account at the Iron Bank (middle to elite class) </br>
 The advisory: Broke-ass student who hope to phish some money to cover his daily needs
 
 The goal of the phishing: Getting the credentials of the victims to control and empty the bank account
@@ -205,7 +205,7 @@ Psychological tactics:
 * Personalization: The email include the name of the victim to make the email look more authentic and personalized
 
 Conclusion:
-> In a cashless society, people have their money and even identity tight to the bank (Finnish ID -> Bank ID -> Make life easier in Finland). 
-> So if the bank account has a problem, the account holder will have x100 problem.
-> An email like this can cause people a short panic and anxiety moment.
-> In a common sense, they will do verification immediately to avoid account suspension.
+> In a cashless society, people have their money and even identity tight to the bank (Finnish ID -> Bank ID -> Make life easier in Finland) </br> 
+> So if the bank account has a problem, the account holder will have x100 problem </br>
+> An email like this can cause people a short panic and anxiety moment </br>
+> In a common sense, they will do verification immediately to avoid account suspension </br>
