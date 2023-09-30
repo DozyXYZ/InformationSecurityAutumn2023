@@ -83,3 +83,24 @@ It is the user's mistake, not Tor.
 * Havard student made a mistake when he used Tor to email bomb threat to the school in order to avoid taking an exam. He used Tor on the Harvard school network in the time frame of the threat mail. The IT staff and FBI busted him. Tor worked but the user sucked.
 
 * Drug Kingpin used personal email address on the open internet for some businesses. FBI linked him to his anonymous Dark Web identity. He got life sentence.
+
+# Task a) Install and access Tor Browser
+
+## Fig a1: Visit Torproject website, download Tor for your OS (Linux in this case)
+![1 Download Tor](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/6d6affe5-f6ee-4600-95e5-1b4fc95240b1)
+
+## Fig a2: Go to file location that has Tor folder, select start-tor-browser.desktop
+![2 go to download location, select start tor](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/ed0ab319-6ad2-4744-ad72-2b0acfea9526)
+
+## Fig a3: Connect to the Tor network
+![3 connect to Tor](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/46c749b7-600a-4627-b5ac-6bdebe3e39a9)
+
+## Fig a4: Tor browser interface
+![4 Tor Browser Interface](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/9315e656-b945-4f0f-9be7-c5080333f1c7)
+
+## Fig a5: The Hidden Wiki
+* The URL in Tor contains 56 letters and numbers end with .onion, the address is convoluted and hard to remember. The hidden wiki lists the notable addresses. You can search more with different sources. </br>
+![5 Hidden Wiki](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/86f96d97-35ee-463c-8d49-0fc441f1a8f4)
+
+
+
