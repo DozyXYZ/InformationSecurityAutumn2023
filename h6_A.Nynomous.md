@@ -100,7 +100,34 @@ It is the user's mistake, not Tor.
 
 ## Fig a5: The Hidden Wiki
 * The URL in Tor contains 56 letters and numbers end with .onion, the address is convoluted and hard to remember. The hidden wiki lists the notable addresses. You can search more with different sources. </br>
+> Hidden Wiki .onion address: http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/
+
 ![5 Hidden Wiki](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/86f96d97-35ee-463c-8d49-0fc441f1a8f4)
+
+# Task b) Dark Net Surfing (SURF AT YOUR OWN RISK)
+
+## Fig b1: Search Engine Ahmia and Haystak for Onion Sites
+* You can search with normal terms like "hacker" or "cocaine", the search engines will return the .onion addresses
+> Haystak: http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/ </br>
+> Ahmia: http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+
+![6 haystak](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/3bfb0469-b448-4310-ab20-67d61ed32aea)
+![6 ahmia](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/f9a1969e-ea4b-44e0-a458-f2dd698d8a6a)
+
+## Fig b2: Tom & Jerry open a drug store, payment in BITCOIN - €420 equivalent for 10g High Quality Crack Cocaine
+![11 tom jerry](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/254a68b8-1d57-4056-a5b1-9afdd8d474fc)
+![11 tom jerry1](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/23715ae5-c414-47ee-863b-98662781dd90)
+
+## Fig b3: Reddit Forum, to browse memes and mocking Americans
+> Reddit: https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/?rdt=65486
+
+![9 reddit](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/9d64b356-91cb-4728-8a53-e227bb548116)
+
+## Fig b4: Mark Zuckerberg want to collect your information in the Dark Net as well
+> Facebook: https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/
+
+![10 facebook](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/f9a3fa45-8526-4e96-a6d9-71442ba22ed7)
+
 
 
 
