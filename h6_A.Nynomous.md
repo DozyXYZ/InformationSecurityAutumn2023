@@ -118,7 +118,7 @@ It is the user's mistake, not Tor.
 ![11 tom jerry](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/254a68b8-1d57-4056-a5b1-9afdd8d474fc)
 ![11 tom jerry1](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/23715ae5-c414-47ee-863b-98662781dd90)
 
-## Fig b3: Reddit Forum, to browse memes and mocking Americans
+## Fig b3: Reddit Forum, for browsing memes and mocking Americans
 > Reddit: https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/?rdt=65486
 
 ![9 reddit](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/9d64b356-91cb-4728-8a53-e227bb548116)
