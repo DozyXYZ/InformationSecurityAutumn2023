@@ -34,3 +34,13 @@ Source: https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor
 * Tor is not foolproof; incorrect use can compromise anonymity.
 * Using Tor with services like Google and Facebook can reveal your identity to them.
 * Adversaries with access to both ends of your connection may perform statistical analysis to identify you.
+
+## Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser
+
+### Introduction
+
+### History and Intended Use of the Onion Router
+
+### How the Onion Router Works
+
+### Tracking Criminals using Tor
