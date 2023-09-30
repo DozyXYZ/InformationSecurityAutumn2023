@@ -78,3 +78,8 @@ Fig x1: Tor Circuit (Book Illustration)
 > Gain control as many entry and exit nodes as possible to correlate traffic and identify users
 > Man-in-the-middle attack: interject a capture service between the Tor user and destination
 
+It is the user's mistake, not Tor.
+
+* Havard student made a mistake when he used Tor to email bomb threat to the school in order to avoid taking an exam. He used Tor on the Harvard school network in the time frame of the threat mail. The IT staff and FBI busted him. Tor worked but the user sucked.
+
+* Drug Kingpin used personal email address on the open internet for some businesses. FBI linked him to his anonymous Dark Web identity. He got life sentence.
