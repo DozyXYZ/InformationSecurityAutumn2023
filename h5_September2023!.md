@@ -209,3 +209,5 @@ Conclusion:
 > So if the bank account has a problem, the account holder will have x100 problem </br>
 > An email like this can cause people a short panic and anxiety moment </br>
 > In a common sense, they will do verification immediately to avoid account suspension </br>
+
+Reference: https://terokarvinen.com/2023/information-security-2023-autumn/#homework
