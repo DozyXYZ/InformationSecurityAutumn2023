@@ -128,6 +128,4 @@ It is the user's mistake, not Tor.
 
 ![10 facebook](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/f9a3fa45-8526-4e96-a6d9-71442ba22ed7)
 
-
-
-
+Reference: https://terokarvinen.com/2023/information-security-2023-autumn/#homework
