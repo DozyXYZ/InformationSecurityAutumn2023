@@ -220,3 +220,5 @@ Fig a1: Original alphabet and substitution </br>
 # I had an issue with the time of the system
 
 > use $ sudo timedatectl set-time "yyyy-mm-dd hh:mm" to set the time correctly
+
+Reference: https://terokarvinen.com/2023/information-security-2023-autumn/#homework
