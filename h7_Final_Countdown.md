@@ -56,3 +56,5 @@ Fig b5: Check how many users are in the server
 Fig b6: Ctrl + D to exit the server
 
 ![8 log out localhost](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/05185926-eac2-43f5-ba57-9b152e791ea8)
+
+Reference: https://terokarvinen.com/2023/information-security-2023-autumn/#homework
