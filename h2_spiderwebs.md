@@ -141,6 +141,8 @@ Fig d4: Question 2 </br>
 Fig e1: Normal Webpage </br>
 ![e1 normal](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/06ea5d34-0f95-4c36-a4e0-bb810c2a5d64)
 
+Reference: https://terokarvinen.com/2023/information-security-2023-autumn/#homework
+
 Fig e2: Injected Webpage </br>
 ![e2 injection](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/f3d87909-c5ba-4c3b-b8d7-511f561651cf)
 
