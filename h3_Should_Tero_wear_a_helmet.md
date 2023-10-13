@@ -242,3 +242,5 @@ The digital signature: </br>
 However, we must manage the private key. we also balance the resources to cover the computation to maintain the performance of the system.
 
 If my colleague have the mean to afford Cryptography approach to counter Tamper. I would recommend this strategy to him.
+
+Reference: https://terokarvinen.com/2023/information-security-2023-autumn/#homework
