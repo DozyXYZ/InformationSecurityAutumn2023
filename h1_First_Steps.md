@@ -63,3 +63,5 @@ After some minutes (depends on your machine), Debian is installed and you can lo
 After login, you can have the working environment that look like the following picture:
 
 ![debian on Oracle](https://github.com/DozyXYZ/InformationSecurityAutumn2023/assets/142783309/2b27d854-fe67-449f-ae1b-f89edff7c2cf)
+
+Reference: https://terokarvinen.com/2023/information-security-2023-autumn/#homework
